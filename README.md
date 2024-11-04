@@ -5,7 +5,7 @@
 - 🔭 Atualmente estou trabalhando em projetos de qualidade de software e automação de testes.
 - 🌱 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
 - 💬 Pergunte-me sobre práticas de qualidade de software, testes automatizados e desenvolvimento ágil.
-- 📫 Como entrar em contato comigo: [Email](jonas.qa.software@gmail.com) | [LinkedIn](https://github.com/jonas-silva-qm/jonas-silva-qm)
+- 📫 Como entrar em contato comigo: [Email](jonas.qa.software@gmail.com) | [LinkedIn](https://github.com/jonas-silva-qm)
 - 😄 Pronomes: Ele/Dele
 
   
@@ -31,9 +31,9 @@
 
 ### Estatísticas dos Repositórios
 
-[![Estatísticas dos Repositórios](https://github-readme-stats.vercel.app/api?username=jonasqasoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/jonas-silva-qm/jonas-silva-qm)
+[![Estatísticas dos Repositórios](https://github-readme-stats.vercel.app/api?username=jonasqasoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/jonas-silva-qm)
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonas-silva-qm/jonas-silva-qm)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonas-silva-qm)
 
 
 **Contatos:**
